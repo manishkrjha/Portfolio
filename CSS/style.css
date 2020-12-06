@@ -142,6 +142,15 @@ footer{
     /* margin-left: -10px; */
 }
 
+.footer-text{
+    color: #f0ffff;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    margin-top: -0.8rem;
+    margin-bottom: 0.8rem;
+}
+
 footer ul li{
     color: #f0ffff;
     margin: 0 0.5rem;
@@ -150,16 +159,6 @@ footer ul li{
 .footer-icons{
     max-width: 2rem;
     background-color: #F5F5F5;
-}
-
-.footer-icons-github{
-    border: 1px solid #f0ffff;
-    border-radius: 3rem;
-}
-
-.footer-icons-linkedin{
-    border: 0.1px solid #171717;
-    border-radius: 0.2rem;
 }
 
 /* project */
