@@ -184,3 +184,16 @@ footer ul li{
     padding: 0.3rem;
 }
 
+/* BLOG */
+.blog-regular{
+    padding: 1.2rem;
+    margin-top: 1rem;
+}
+
+.blog-genere{
+    display: block;
+    margin-top: 0.5rem;
+    font-size: small;
+    color: #a9a9a9;
+}
+
